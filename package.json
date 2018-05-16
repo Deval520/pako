@@ -44,5 +44,7 @@
     "uglify-js": "^3.0.25",
     "zlibjs": "^0.3.1"
   },
-  "dependencies": {}
+  "dependencies": {
+    "typedarray": "0.0.6"
+  }
 }
